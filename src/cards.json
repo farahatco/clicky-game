@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "1",
+      "image": "/images/1.png",
+      "occupation": "Fry Cook",
+      "location": "A Pineapple Under the Sea"
+    },
+    {
+      "id": 2,
+      "name": "Mr. Krabs",
+      "image": "/images/2.png",
+      "occupation": "Restaurant Owner",
+      "location": "A Giant Anchor"
+    },
+    {
+      "id": 3,
+      "name": "Squidward",
+      "image": "/images/3.png",
+      "occupation": "Cashier",
+      "location": "An Easter Island Head"
+    },
+    {
+      "id": 4,
+      "name": "Dexter",
+      "image": "/images/4.png",
+      "occupation": "Boy Genius",
+      "location": "A Secret Laboratory"
+    },
+    {
+      "id": 5,
+      "name": "Courage",
+      "image": "/images/5.png",
+      "occupation": "A Cowardly Dog",
+      "location": "Nowhere, Kansas"
+    },
+    {
+      "id": 6,
+      "name": "Doug Funnie",
+      "image": "/images/6.png",
+      "occupation": "Student",
+      "location": "Bluffington"
+    }
+  ]
+  

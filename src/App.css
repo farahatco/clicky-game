@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  background-color:#444;
+}
+
+.App-header {
+  background-color: #222;
+  height: 30px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+  background-color: blue;
+  padding: 20px;
+  color: white;
+}
+
+.footer {
+  margin-top: 20px;
+  background-color: rgb(24, 21, 21);
+  color: white;
+}
+.score {
+  color: rgb(245, 239, 243);
+}
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
